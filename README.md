@@ -10,7 +10,7 @@ Beyond the dashboard, users encounter one word at a time, flashcard-style. Upon 
 
 
 ## Visit our site
-[Live app](https://spaced-repetition-theta.now.sh/ "Maori in Motion")
+[Live app](https://maori-in-motion.now.sh "Maori in Motion")
 
 [GitHub repository (server)](https://github.com/therealmbittarelli/Maori-in-Motion-server "Maori in Motion server repo")
 
