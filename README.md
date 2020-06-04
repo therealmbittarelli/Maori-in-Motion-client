@@ -1,6 +1,6 @@
 # Maori in Motion
 Spaced Repetition Capstone
-Built by Calvin Rosehart and Maggie McClellan
+Built by Maggie McClellan and Calvin Rosehart
 
 Learn a new language using the spaced repetition technique! Remember studying using flash cards? You may have followed a pattern like this: get a word right and move its flashcard to the middle or back of the stack; get a word wrong and move it back by just a few cards, so as to come across the word again before too long. That's spaced repetition, and that's essentially how our app is going to teach you some basic Maori words!
 
